@@ -1,0 +1,12 @@
+{
+  "mode": "full_day",
+  "full_day": {
+    "morning_start": "10:00",
+    "morning_end": "12:30",
+    "afternoon_start": "13:30",
+    "afternoon_end": "21:00"
+  },
+  "custom": {
+    "periods": []
+  }
+}
